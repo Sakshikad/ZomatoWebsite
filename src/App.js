@@ -9,6 +9,11 @@ const App = () =>
       console.log("hi");
     
   }
+  const Hello2=()=>{
+    return
+      console.log("hi");
+    
+  }
   return (
     <div>
       <HomePage/>
